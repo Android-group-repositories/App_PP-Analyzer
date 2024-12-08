@@ -1,0 +1,23 @@
+personal information include registration, friends list, and profile information.
+information about the smart device include log or event information and device information.
+Identity Information includes government-issued ID image and verification information.
+information include personal information from other sources such as Guest Travel Insurance Partners.
+Payment Information includes payment account or bank account information.
+information include personal information from other sources, such as complainants.
+personal information include information about how we handle your personal information, copies of personal information that you have provided to us in a structured, commonly used, and machine-readable format.
+personal information includes bank account details and account balance.
+information include payment schedule and actual payments on authorized payment plans.
+Information Needed to Use the Airbnb Platform includes Contact, Account, and Profile Information.
+personal information include information for legal, tax, reporting, and auditing obligations.
+We may share your information with Building Management, including booking information and information related to compliance with applicable laws. Guest booking and personal information, including guest contact information, may be shared with the Building Management of the building, complex, or community where a host lives and the listing is located.
+We may collect personal information from other sources, such as Other Sources.
+We may receive additional information about you, such as references, demographic data, and information to help detect fraud and safety issues from third-party service providers, other third parties, and partners, or Members and any other individuals, entities, and authorities, and combine it with information we have about you.
+We may receive health information including, but not limited to, health information related to contagious diseases.
+Information We Collect from Third Parties include referrals and co-travelers information.
+information include Enterprise Product Invitations and Account Management.
+The sentence that expresses the inclusive relationship between the data types is not present in the provided text. The text describes the existence of a Privacy Policy and mentions supplemental privacy pages that may apply depending on the user's location and activities on the Airbnb Platform, but it does not list or describe specific types of personal information collected or processed.
+The sentence that expresses the inclusive relationship between the data types is not present in the provided text. The text only states that personal information is used as outlined in the Privacy Policy but does not specify the types of data included. Therefore, there is no sentence to extract or summarize in the form requested.
+We may collect personal information from other sources, such as Background Information Providers, including reports of criminal records, sex offender registrations, and other information about you and your background.
+information include personal information.
+information include identity verification information, background check information, fraud prevention information, security investigation information, risk assessment information, product development information, maintenance information, debugging information, third-party platform provision information, customer service information, advertising information, payment service information, insurance claim information, communication review information, and flexible payment plan information.
+information includes account information and interactions with the Airbnb Platform.

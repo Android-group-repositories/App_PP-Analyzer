@@ -1,0 +1,33 @@
+We collect certain technical information about the device you use to access the Platform, including your IP address, user agent, mobile carrier, time zone settings, identifiers for advertising purposes, model of your device, the device system, network type, device IDs, screen resolution, operating system, app and file names and types, keystroke patterns or rhythms, battery state, audio settings, and connected audio devices.
+We use your profile information to identify your activity across devices when you log in from multiple devices.
+We may associate you with information collected from devices other than those you use to log in to the Platform.
+We may access, store, and otherwise process personal information outside of Canada, including in the United States, Malaysia, Ireland, Singapore, and other foreign jurisdictions.
+We may disclose your personal information if we are required or permitted by applicable law or legal process, which may include lawful access by foreign courts, law enforcement or other government authorities in the jurisdictions in which we or our service providers operate.
+We receive information (including username, password, date of birth, email address, telephone number, information disclosed in your user profile, photograph, or profile video) when you register on the Platform.
+If you choose to register to use the Platform using your social network account details (such as Facebook, Twitter, Instagram, Google), we will receive your phone number, email address, username, and public profile.
+We will share certain information (such as app ID, access token, referring URL) with the relevant social network.
+We will share certain information about you with the third party if you choose to allow a third-party service to access your account.
+Depending on the permissions you grant, the third party may be able to obtain your account information and other information you choose to provide.
+We collect purchase information (such as payment card information, billing, delivery, and contact information, and items purchased) when you make a purchase or payment on or through the Platform.
+We collect, use, share, and otherwise process personal information of users and other individuals in connection with our Platform.
+We receive information from other sources, including when you register or use the Platform with a third-party social network account (e.g., Facebook, Twitter, Instagram, Google).
+We obtain your username, public profile, and other related information if you provide us or allow us to obtain such information from your social network account.
+We share certain information with your social network, such as your app ID, access token, and referring URL.
+We receive information about your use of another service if you link your TikTok account to that service.
+We use your information to improve, support, and administer the Platform, to allow you to use its functionalities, and to fulfill and enforce our Terms of Service.
+We may also use your information to personalize content you see on the Platform, promote the Platform, and customize your ad experience.
+We generally use the information we collect to infer additional information about you, such as your age range, gender, and interests.
+We receive information (such as actions taken outside of the Platform, including activities on other websites and apps or in stores, products or services purchased, mobile identifiers for advertising, hashed email addresses, phone numbers, and cookie identifiers) from other sources like advertisers, measurement and other partners.
+We use this information to match you and your actions outside of the Platform with your TikTok account.
+Some of our advertisers and other partners enable us to collect similar information directly from their websites or apps by integrating our TikTok Advertiser Tools (such as TikTok Pixel).
+We receive information described in this Privacy Policy from other sources, including when you are included or mentioned in User Content, direct messages, complaints, appeals, requests, or feedback submitted to us, or if your contact information is provided to us.
+We collect information about you from other publicly available sources.
+We collect approximate location information, including location information based on your SIM card and IP address.
+With your permission, we may collect precise location data (such as GPS).
+We also collect location information (such as tourist attractions, shops, or other points of interest) if you choose to add location information to your User Content.
+We access and collect information (such as names, phone numbers, email addresses) from your phone contacts if you choose to sync your phone contacts.
+We match that information against existing users of the Platform.
+We collect public profile information as well as names and profiles of your social network contacts if you choose to share your social network contacts.
+Certain entities in our corporate group, located outside of Australia, are given limited remote access to your information to provide certain functions.
+We share your information with certain entities in our corporate group which are located in countries outside of Australia.
+We collect usage information regarding how you engage with the Platform, including how you interact with content we show to you, the advertisements you view, videos you watch and problems encountered, your browsing and search history, the content you like, the content you save to 'My Favourites', the users you follow and how you engage with mutual followers.

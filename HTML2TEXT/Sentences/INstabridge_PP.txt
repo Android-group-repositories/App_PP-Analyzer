@@ -1,0 +1,12 @@
+We collect, store, and use your personal information, including your username and email address, as well as information about how you use and access the Service, because it is necessary to provide the Service you requested according to the contract between us. Without this information, we cannot provide you with the Service.
+We ask for certain information (including but not limited to information about your use of the Service, IP address, device ID, time, BSSID and SSID, SIM card identifiers (IMEI), MAC address of access point, signal level, captive portal login steps, and other technology) on the devices you use to access the Service.
+We collect additional points that are interesting to measure and analyze network and internet performance.
+We collect information (such as the type of mobile device, mobile device unique ID, IP address of the mobile device, mobile operating system, mobile Internet browser type, unique device identifiers, and other diagnostic data) from the devices you use to access the Service.
+We may use personal information where we are permitted or required by applicable law or regulatory requirements to do so.
+We collect certain personal information (such as email address, social networking profile, age range, country and language, device-based advertising identifiers, mobile device type, operating system version and type, device settings, time zone, carrier and IP address, MAC address, mobile carrier name, and speed test information) from Users and their mobile devices and networks when they install and use our App, with their explicit consent.
+To opt out of our use of personal information for advertising purposes, please contact us at support@degoo.com with a request that we not use your personal information for advertising purposes, and we will honor that request.
+To ensure a swift response, we may request you provide us with information necessary to confirm your identity before responding to any request you make.
+We request certain information (such as username, password, email address, and profile picture) from you if you decide to create a user account on Instabridge.
+We obtain authentication information (such as username, email address, and encrypted access credentials) from third-party app (such as Facebook, Google) if you choose to log in using your credentials from third-party app.
+We gather other information (such as profile picture, country and hometown, date of birth, gender, networks) through your third-party app account.
+We upload users' primary account information to website_url_lnk.

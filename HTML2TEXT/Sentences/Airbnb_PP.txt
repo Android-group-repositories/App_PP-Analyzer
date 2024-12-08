@@ -1,0 +1,75 @@
+We share personal information within our corporate family of companies, including Airbnb, Inc., to support us in providing, integrating, promoting, and improving the Airbnb Platform and Payment Services.
+Even if your country of residence is not the United States, we share your information with Airbnb, Inc., which provides the technical infrastructure for the Airbnb Platform.
+We collect personal information from other sources, such as Referrals and Co-Travelers.
+If you are invited to the Airbnb Platform as a co-traveler on a trip, the person who invited you can submit personal information about you.
+We collect personal information about you (such as first name, last name, phone number, postal address, email address, date of birth, and profile photo) when you use the Airbnb Platform.
+We may not be able to provide all services requested without this information.
+We collect personal information from other sources, including Third-Party Applications.
+We receive information (such as registration, friends list, profile information) from third-party services (like Google, Facebook, WeChat) if you link, connect, or login to the Airbnb Platform using those services.
+We may collect information (like log or event information and device information) about the smart device if you choose to connect a smart lock to your Airbnb account.
+We collect personal information from other sources such as Other Sources.
+We receive additional information (like references, demographic data, and fraud detection information) from third-party service providers, other third parties, and partners, or Members and combine it with information we have about you.
+We receive background check results or fraud warnings from identity verification service providers for use in our fraud prevention, security investigation, and risk assessment efforts.
+We receive information about you and your activities on and off the Airbnb Platform from users of Airbnb, members of the public, governmental authorities, or our partners.
+We receive health information including, but not limited to, health information related to contagious diseases.
+We receive additional personal information (such as gender, preferred languages, city, and personal description) if you choose to provide us with Additional Profile Information.
+We collect personal information about you when you use the Airbnb Platform, including Payment Information such as payment account or bank account information.
+We may receive payment information relating to you if you are not an Airbnb user, such as when an Airbnb user provides your payment card to complete a booking.
+We collect personal information from other sources, such as Background Information Providers.
+We may obtain reports of criminal records, sex offender registrations, and other background information about Members in the United States.
+We may perform criminal background checks on Hosts in India.
+For Members outside of the United States, we may obtain police, background, or registered sex offender checks, to the extent permitted by applicable laws and with their consent where required.
+We use your information, including full name and date of birth, to obtain such reports.
+We process information to determine your country of residence based on automated review of your account information and your interactions with the Airbnb Platform.
+In some jurisdictions, applicable law may entitle you to request certain copies of your personal information or information about how we handle your personal information.
+You may request copies of personal information that you have provided to us in a structured, commonly used, and machine-readable format.
+You can request that we transmit this information to another service provider, where technically feasible.
+We use personal information in accordance with this Privacy Policy.
+If you reside outside of the United States, we provide information about our legal bases for collection and processing personal information.
+You can request that your personal information be deleted in some jurisdictions.
+We may retain and use your personal information to comply with our legal, tax, reporting, and auditing obligations.
+We share personal information (including booking information and compliance with laws) with Building Management to facilitate programs.
+We share Hosts' and Guests' personal information with Accommodation owners, homeowners' associations, and Building Management agents for facilitating hosting services, compliance, security, billing, and other services.
+Guest booking and personal information (including contact details) may be shared with Building Management where the host resides and the listing is located.
+We review, scan, or analyze your communications on the Airbnb Platform for reasons including fraud prevention, security investigations, risk assessment, regulatory compliance, product development, research, analytics, enforcing our Terms of Service, and customer support purposes.
+We scan and analyze messages to mask contact information and references to other sites as part of our fraud prevention efforts.
+Subject to applicable law, we scan and analyze all images uploaded by users to the Airbnb platform in message threads, profiles, listings, and experiences for certain illegal or inappropriate activities, such as evidence of child exploitation, for the purpose of identifying and reporting content violations to appropriate authorities.
+We may also scan, review, or analyze messages to debug, improve, and expand product offerings.
+We use automated methods where reasonably possible, but occasionally may need to manually review communications for fraud investigations and customer support, or to assess and improve the functionality of these automated tools.
+We will not review, scan, or analyze your messaging communications to send third-party marketing messages to you and we will not sell reviews or analyses of these communications.
+We may share your communications as set out in the "Sharing and Disclosure" section.
+We collect personal information from other sources, such as Flexible Payment Plans and Financing Providers.
+We receive certain information (such as payment schedule and actual payments on authorized payment plans) from the third-party provider if you elect to purchase a reservation and pay on an installment plan.
+We collect personal information from other sources, such as Enterprise Product Invitations and Account Management.
+We may submit personal information to facilitate account management and invitations to use enterprise products.
+We receive personal information from other sources, such as Financial Institutions.
+We collect certain information (such as bank account details and account balance) from your financial institution if you elect to pay with funds from your bank account.
+We receive additional personal information from you if you choose to provide it, including information about others such as a payment instrument or contact information belonging to another person or information about a co-traveler.
+By providing us with personal information about others, you confirm that you have the permission to provide that information to Airbnb for the purposes described in this Privacy Policy and that you have shared the Airbnb Privacy Policy with them.
+We automatically collect certain information when you use the Airbnb Platform and Payment Services.
+This information may include Geolocation Information such as precise or approximate location determined from your IP address, mobile or other device's GPS, or other information you share with us.
+We may also collect this information when you're not using the app if you enable this through your settings or device permissions.
+We may share your information to build your public profile on the Airbnb Platform.
+Information you share publicly on the Airbnb Platform may be indexed by third-party search engines.
+We make certain information publicly visible to others, such as your profile and account information and information derived from them.
+When you use the Airbnb Platform and Payment Services, we automatically collect certain information, which includes Payment Transaction Information.
+We collect Payment Transaction Information such as payment instrument used, date and time, payment amount, payment instrument expiration date, billing postcode, PayPal email address, IBAN information, your address, and other related transaction details.
+We collect personal information from other sources, such as Complainants.
+We receive information relating to the specific complaint made if a Host, Guest, or any third party submits a complaint about you.
+We understand and, where relevant, address the complaint by receiving this information.
+If Airbnb undertakes or is involved in any merger, acquisition, reorganization, sale of assets, bankruptcy, or insolvency event, we may sell, transfer, or share some or all of our assets, including your information in connection with such transaction or in contemplation of such transaction, such as due diligence.
+We will notify you before your personal information is transferred and becomes subject to a different privacy policy.
+We share personal information with affiliated and unaffiliated service providers to help us run our business and for their compliance purposes.
+We share information for purposes such as verifying your identity, authenticating identification documents, checking information against public databases, conducting background checks, fraud prevention, security investigations, risk assessments, product development, maintenance, debugging, allowing provision of the Airbnb Services through third-party platforms and software tools, providing customer service, advertising, payments services, offering additional services, processing insurance claims, reviewing, scanning, and analyzing communications on the Airbnb Platform for certain purposes, and offering flexible payment plans and financing provided by a third-party credit provider.
+These service providers are contractually bound to protect your personal information, have access to your personal information to perform these tasks, and may also disclose your information where required by law.
+We automatically collect certain information when you use the Airbnb Platform and Payment Services, which may include Device Information such as IP address, hardware and software information, device information, device event information, unique identifiers, crash data, and read receipts.
+We collect this information even if you haven't created an Airbnb account or logged in.
+We receive additional personal information, including Biometric Information, when you choose to provide it to us. This includes facial recognition data derived from photos and identification documents you submit for verification, where offered and with your consent where required by applicable law.
+We receive additional personal information (including Other Information) that you choose to provide us, such as when you fill in a form, add information to your account, respond to surveys, post to community forums, participate in promotions, communicate with Airbnb Support and other Members, import or manually enter address book contacts, provide your address and geolocation, or share your experience with us. This may include health information if you choose to share it with us.
+We collect personal information about you when you use the Airbnb Platform.
+We may ask you for an image of your government-issued ID or other verification information and a selfie when we verify your ID.
+We obtain information from your ID if a copy is provided to us.
+We collect Identity Information in accordance with applicable laws.
+We process personal information in relation to your use of the Airbnb Platform.
+We collect personal information from other sources, such as Guest Travel Insurance Partners.
+We receive information regarding your claim if you make a claim under a Guest Travel Insurance Policy in order to provide customer service and improve our platform.

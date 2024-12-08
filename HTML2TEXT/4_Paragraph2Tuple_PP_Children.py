@@ -7,9 +7,14 @@ from pathlib import Path
 from openai import OpenAI
 
 client = OpenAI(
-    api_key="your api key",
-    base_url="https://api.moonshot.cn/v1",
+    api_key="sk-JFzKW5uHCHaEoEtKB7B3B7655562495d8c5f734fBb478cF8",
+    base_url="https://api.holdai.top/v1"
 )
+
+# client = OpenAI(
+#     api_key="sk-OLyeRhsjqDHg4UswihhmswfWrX37FHRssvQNiy6HdlFtt2zi",
+#     base_url="https://api.moonshot.cn/v1",
+# )
 
 # 我们定义一个全局变量 messages，用于记录我们和 Kimi 大模型产生的历史对话消息
 # 在 messages 中，既包含我们向 Kimi 大模型提出的问题（role=user），也包括 Kimi 大模型给我们的回复（role=assistant）
@@ -18,9 +23,9 @@ client = OpenAI(
 history = [
     {
         "role":
-        "system",
+            "system",
         "content":
-        "你是 Kimi，由 Moonshot AI 提供的人工智能助手，你更擅长中文和英文的对话。你会为用户提供安全，有帮助，准确的回答。同时，你会拒绝一切涉及恐怖主义，种族歧视，黄色暴力等问题的回答。Moonshot AI 为专有名词，不可翻译成其他语言。"
+            "你是 Kimi，由 Moonshot AI 提供的人工智能助手，你更擅长中文和英文的对话。你会为用户提供安全，有帮助，准确的回答。同时，你会拒绝一切涉及恐怖主义，种族歧视，黄色暴力等问题的回答。Moonshot AI 为专有名词，不可翻译成其他语言。"
     },
 ]
 
@@ -148,15 +153,16 @@ def convert(name, mode=1):
             })
 
             for s in sentences:
-                file.write(chat(f"\"\"\"{s}\"\"\"", history) + '\n')
+                file.write(
+                    chat(f"\"\"\"{s}\"\"\"", history) + '\n')
 
             history.pop()
             # time.sleep(10)
 
 
 def main():
-    logging.basicConfig(format='%(asctime)s [%(levelname)s] %(message)s',
-                        level=logging.INFO)
+    logging.basicConfig(
+        format='%(asctime)s [%(levelname)s] %(message)s', level=logging.INFO)
 
     parser = argparse.ArgumentParser()
     parser.add_argument("-n", "--Name", help="Name")

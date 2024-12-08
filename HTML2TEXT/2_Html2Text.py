@@ -59,17 +59,17 @@ class HtmlPreprocessor:
             except UnicodeDecodeError:
                 return '\n'.join([line for line in codecs.open(filename, 'rb', 'windows-1252')])
 
-        # Load html
+        # 按照html的每行加载html
         html = loadRawHtml(filename)
 
         # Unescape the html first, we can have unicode html (e.g., &gt;p&lt; --> <p>)
         # html_parser = HTMLParser()
         # html = html_parser.unescape(html)
 
-        # Parse with bs4
+        # 使用bs4进行解析
         self.soup = BeautifulSoup(html, 'html.parser')
 
-        # 去掉注释
+        # 去掉html中的注释
         comments = self.soup.findAll(string=lambda text: isinstance(text, Comment))
         for comment in comments:
             comment.extract()
@@ -107,6 +107,7 @@ class HtmlPreprocessor:
 
         def processHtml(self, element, listItemDepth=0):
             if isIteratable(element):
+                # 判断是否为列表标签 li
                 if isListItem(element):
                     listItemDepth += 1
 
@@ -118,6 +119,7 @@ class HtmlPreprocessor:
                             continue
                         # TODO check pop ups
                         processHtml(self, child, listItemDepth if not isPopupElement(child) else 0)
+                        # 判断是否为弹出元素
                         if isPopupElement(child):
                             # Create paragraph tag and set aside to insert at end of body
                             newTag = self.soup.new_tag('p')
@@ -168,7 +170,7 @@ class TextPostProcessor:
         text = re.sub(r'\s+(\(\s*([0-9][0-9]?|[A-Za-z]+)\s*\)|([0-9][0-9]?|[A-Za-z])(\s*\)|\.|\\\.))\s*', ' ',
                       text)
         text = re.sub(r'\s+(ix|iv|v?i{1,3})\.\s+', ' ', text, re.IGNORECASE)
-            # print(text)
+        # print(text)
         # print(text[:20])
         return text
 
@@ -229,7 +231,6 @@ class TextPostProcessor:
             # Ensure list items spaced after colon ":(1)" --> ": (1)"
             line = re.sub(r':\(', ': (', line)
 
-
             # Ensure spaces after end paren (e.g., ")if" --> ") if"
             line = re.sub(r'\)[A-Za-z0-9]', spaceParenCallback, line)
 
@@ -275,7 +276,7 @@ class Preprocessor:
         h2text.ignore_emphasis = True  # Do not include bold and italics formatting
         self.mkdown = h2text.handle(html)
 
-    def parse(self):
+    def parse(self, ppName):
         TEXT_TAG = 'TEXT'
         HEADER_TAG = 'HEADER'
         LISTITEM_TAG = 'ITEM'
@@ -321,12 +322,13 @@ class Preprocessor:
                 # (?P<num>[0-9]+)命名捕获组，用于提取depth属性值（如果存在）
                 match = re.search(r'&lt;[/]?LISTITEM(\sdepth="(?P<num>[0-9]+)")?&gt;', text)
 
-                # 如果match对象不为空且能提取到num组，则返回num的整数值，否则返回0
+                # 如果match对象不为空且能提取到num值，则返回num的整数值，否则返回0
                 return int(match.group('num')) if match and match.group('num') is not None else 0
 
             #####################################
             hFlag = isHeader(text)
             if hFlag > 0:
+                # print(text)
                 return (HEADER_TAG, hFlag)
             lFlag = isListItem(text)
             if lFlag > 0:
@@ -654,6 +656,7 @@ class Preprocessor:
                 return len(ncap) > 2 and sum(ncap) < len(ncap)
 
             ######################################################
+            # print(pars)
             while index < len(pars):
                 element = pars[index]
                 if len(element.strip()) == 0:
@@ -663,7 +666,7 @@ class Preprocessor:
 
                 eType, eDepth = getElementType(element)
                 # if "Whenever there is a UK Data Transfer, your use of UK Data is subject to your compliance with the Approved Addendum (which is hereby incorporated by reference into these Terms and is deemed to have been entered into and completed as set out below)." in element:
-                #     print(element)
+                # print(element)
                 #     pdb.set_trace()
 
                 # if stripListItemTags(element).strip().endswith(':'):
@@ -693,8 +696,25 @@ class Preprocessor:
         output = []
         mkdownPars = self.mkdown.split('\n')
         # print(mkdownPars)
-        # with open('./tmp/tmp1.md', 'w', encoding='utf-8') as fwrite:
-        #     fwrite.write(self.mkdown)
+        with open('./tmp/tmp1.md', 'w', encoding='utf-8') as fwrite:
+            fwrite.write(self.mkdown)
+        with open(f'./plaintexts/{ppName}_splitByTitle.txt', 'w', encoding='utf-8') as fwrite:
+            for line in mkdownPars:
+                if len(line.strip()) > 0:
+
+                    if line.startswith('#'):
+                        if fwrite.tell() != 0:
+                            fwrite.write('\n')
+                            fwrite.write(stripHeader(line))
+                            fwrite.write('\n')
+                        else:
+                            fwrite.write(stripHeader(line))
+                            fwrite.write('\n')
+                    else:
+                        line = stripListItemTags(line)
+                        line = stripListItemChar(line)
+                        fwrite.write(line)
+                        fwrite.write('\n')
         processMarkdown(output, mkdownPars, 0)
         # print(output)
         # with open('./tmp/tmp1.txt', 'w', encoding='utf-8') as fwrite:
@@ -706,16 +726,16 @@ class Preprocessor:
 
 #####################################
 
-def main(filename):
+def main(filename, ppName):
     hprocessor = Preprocessor(filename)
-    return hprocessor.parse()
+    return hprocessor.parse(ppName)
 
 
 def getOutputFilename(filename, outputDir):
     return os.path.join(outputDir, '{}.txt'.format(os.path.splitext(os.path.basename(filename))[0]))
 
 
-def processFile(filename, outputDir=None):
+def processFile(filename, ppName, outputDir=None):
     try:
         outputfilename = '{}.txt'.format(os.path.splitext(os.path.basename(filename))[0])
         if os.path.isfile(outputfilename):
@@ -723,7 +743,7 @@ def processFile(filename, outputDir=None):
 
         if outputDir is not None:
             outputfilename = os.path.join(outputDir, outputfilename)
-            res = main(filename)
+            res = main(filename, ppName)
             with codecs.open(outputfilename, 'w', 'utf-8') as outputfile:
                 outputfile.write('\n'.join(uni.normalize(res)))
     except NonEnglishException:
@@ -748,7 +768,7 @@ if __name__ == '__main__':
     name = f"./htmls/{args.name}.html"
     if args.name is not None:
         if os.path.isfile(name):
-            processFile(name, outputdir)
+            processFile(name, args.name, outputdir)
         elif os.path.exists(args.name):
             processDirectory(args.name, outputdir)
         else:

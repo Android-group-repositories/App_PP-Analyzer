@@ -1,0 +1,35 @@
+We do not knowingly collect any personal information from children using these Services.
+We collect age information before allowing a user to proceed with certain Services.
+If we learn that we have inadvertently gathered personal information about a child, we will take measures to promptly remove that information from our records.
+When we collect sensitive or special category personal information, it will be based on consent or another applicable lawful basis.
+We store Advertising ID and Device ID for advertisement purposes and combine other device information with your profile to deliver relevant advertising and track the success of our advertising and marketing programs.
+We use de-identified email addresses, including those collected from third-party social media providers when you log in via your social media accounts, to track the success of our advertising and marketing programs after taking appropriate technical security measures such as encryption and hashing.
+We hold the right for you to access your personal data, including information on whether your personal data is collected or disclosed, the categories of your personal data collected or disclosed, the categories of sources from which your personal data is collected, and the business or commercial purpose for collecting or disclosing your personal data.
+You have the right to require us to provide a duplicate of your personal data undergoing processing, contingent upon submitting a verifiable request to us using the contact information provided in the "Contact and Complaint" section.
+You may also be able to exercise the right to access some of your personal data through the privacy settings available in the services, such as your profile page or privacy dashboard, where applicable.
+To ensure security and stable operation, provide a fair gaming environment, prevent cheating, and improve the functionality and quality of COGNOSPHERE services, we automatically collect data using mechanisms like cookies, browser web storage, and application data caches.
+We automatically collect device related data (including Advertising ID, device ID, device name, device type/model, MAC address, IMEI data, CPU data, OS version and language, time zone, screen DPI, device resolution, device mode/status, memory data, and graphics card model).
+We collect IP address data.
+We gather data related to bugs, errors, crashes and diagnosis (including registration/login time, game version, UID, stack trace, crash reports, abnormal process data).
+We collect other data related to security (including installed app names, system startup time, app install and update time, request and referral URLs, system activity details, game-related plug-in and runtime data, network status and information, and data related to external plugin programs).
+We automatically collect data about your interactions with our services, such as the pages and other content you view, any content you post, and the dates and times of your visits.
+If you are a California resident, you may exercise the right to request details about the categories of personal information we collect, the categories of sources, the business or commercial purposes for collecting information, and the categories of third parties with which we share information.
+We collect and disclose for a business purpose personal information such as name, telephone number, and financial information (like payment and bank account number) from Customer Records.
+We collect participation information (including name, UID, email address, mobile phone number, nickname, country/region) from you if you agree to participate in any activities organized by us.
+We may also collect your mailing address if you win any prizes in the activities.
+Your activity participation information may be added to your account.
+We store PayPal account information and display it as a selectable payment option for subsequent payments.
+We receive social media account information (including username or nickname) from third party social media providers if you log in to our services via your social media accounts.
+We add such information obtained from third party social media providers to your account information.
+We collect and disclose for a business purpose categories of personal information, including inferences such as consumer preferences drawn from the above.
+We collect Commercial Information, including products or services purchased or obtained, for a business purpose.
+We collect Internet or Other Electronic Network Activity Information (such as browsing history, search history, and information regarding a user's interaction with an internet website or application) for a business purpose.
+When you create an Account, we collect Account Registration Information such as your username, email address, mobile phone number, password, verification code, and Open ID/Union ID.
+We collect these data types (username, email address, mobile phone number, password, verification code, Open ID/Union ID) to help you create and manage the account for your use of our services.
+We use these data types for providing game login services and for other purposes set forth in Section 2 of this Privacy Policy.
+We use cookies, which are small text files for added functionality or for tracking site usage, to measure the effectiveness of our services.
+We log your IP address using cookies and authorize a third-party's tracking-utility to determine the path that users take on our sites and identify repeated users of our sites.
+We collect websites or sources that linked or referred you to our services through cookies and a third-party's tracking-utility.
+We gather technical data about the devices and software you use to access our services, the operating system of your devices, and other similar technical data using cookies and a third-party's tracking-utility.
+You may set your web browser to reject cookies or receive notifications when they are placed if you do not wish to accept them.
+We collect Contact Information and Identifiers (including name, alias, online identifiers, IP address, email address, or other similar identifiers) for a business purpose.

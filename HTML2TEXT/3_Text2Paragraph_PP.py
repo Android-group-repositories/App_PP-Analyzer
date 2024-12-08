@@ -102,6 +102,7 @@ childKeyword = [
 # ]
 
 datas = [
+    "information",
     "prohibited data",
     "restricted information",
     "services data",
@@ -143,7 +144,8 @@ datas = [
     "browsing history",
     # "cookie",
     "login credential",
-    "token"
+    "token",
+    "information from social network"
 ]
 
 dataItem = [
@@ -174,6 +176,10 @@ d_verb = [
     "share", "store", "utilize", "collect", "transmit", "process", "storage", "processing", "use", "request", "receive"
 ]
 
+u_verb = [
+    "share", "provide", "give", "submit"
+]
+
 # p_verb = [
 #     "abide", "post", "provide", "disclose", "disclosure", "publish", "make available", "maintain", "have",
 #     "made available", "disclosing", "describes", "describe"
@@ -188,6 +194,10 @@ a_noun = [
 #     "licensee"
 # ]
 
+user = [
+    "you"
+]
+
 developer = [
     "we"
 ]
@@ -196,6 +206,8 @@ fs_pattern = r'[^.]*'
 
 developer_lower = {s.lower() for s in developer}
 d_verb_lower = {s.lower() for s in d_verb}
+user_lower = {s.lower() for s in user}
+u_verb_lower = {s.lower() for s in u_verb}
 # b_verb_lower = {s.lower() for s in p_verb}
 dataItem_lower = {s.lower() for s in datas}
 
@@ -294,6 +306,16 @@ def plural_to_singular(p, word):
     return p.singular_noun(word) or word
 
 
+def dataFilter(paragraphs):
+    tmp = []
+    for p in paragraphs:
+        for d in datas[1:]:
+            if d.lower() in p.lower():
+                tmp.append(p)
+                break
+    return tmp
+
+
 def extractParagraph(sdk_name, debugFlag):
     result = {}
     result['rp'] = []
@@ -311,6 +333,8 @@ def extractParagraph(sdk_name, debugFlag):
             # 存储每个段落识别到的词
             final_developers = []
             final_data_verbs = []
+            final_users = []
+            final_udata_verbs = []
             final_data_nouns = []
             final_pp_verbs = []
 
@@ -329,6 +353,14 @@ def extractParagraph(sdk_name, debugFlag):
             for d in developer:
                 if re.search(rf'\b{d}', paragraph.lower()):
                     final_developers.append(d)
+            # 识别段落中形容用户的词
+            for u in user:
+                if re.search(rf'\b{u}\b', paragraph.lower()):
+                    final_users.append(u)
+            # 识别段落中形容用户数据处理的词
+            for u in u_verb:
+                if re.search(rf'\b{u}\b', paragraph.lower()):
+                    final_udata_verbs.append(u)
             # 识别段落中描述数据处理的词
             for d in d_verb:
                 if re.search(rf'\b{d}', paragraph.lower()):
@@ -346,6 +378,8 @@ def extractParagraph(sdk_name, debugFlag):
                 'developers': list(set(final_developers)),
                 'data_verbs': list(final_data_verbs),
                 'data_nouns': list(set(final_data_nouns)),
+                'users': list(set(final_users)),
+                'udata_verbs': list(final_udata_verbs),
                 # 'pp_verbs': list(final_pp_verbs)
             })
             # print(paragraph[:15])
@@ -358,6 +392,8 @@ def extractParagraph(sdk_name, debugFlag):
     # 按照段落进行分类识别
     for p_dict in result['rp']:
         keywordRecognize1(p_dict['developers'], p_dict['data_verbs'],
+                          p_dict['data_nouns'], p_dict['paragraph'], 'dk', result)
+        keywordRecognize1(p_dict['users'], p_dict['udata_verbs'],
                           p_dict['data_nouns'], p_dict['paragraph'], 'dk', result)
         # keywordRecognize4(p_dict['pp_verbs'], ppKeyWord,
         #                   p_dict['paragraph'], 'pk', result)
@@ -373,7 +409,8 @@ def extractParagraph(sdk_name, debugFlag):
             json.dump(result, wfile, ensure_ascii=False, indent=4)
 
     outputParagraph = {
-        'Data': list(set(itertools.chain.from_iterable(result['dk'].values()))),
+        'Data': dataFilter(list(set(itertools.chain.from_iterable(result['dk'].values())))),
+        # 'Data': list(set(itertools.chain.from_iterable(result['dk'].values()))),
         'Children': list(set(itertools.chain.from_iterable(result['ck'].values()))),
         'PP': list(set(itertools.chain.from_iterable(result['pk'].values())))
     }
@@ -400,4 +437,4 @@ if __name__ == "__main__":
     begin = time.time()
     main()
     end = time.time()
-    logging.info(f"Extract Done! {end - begin}")
+    logging.info(f"Extract Done! {round(end - begin, 2)}")
