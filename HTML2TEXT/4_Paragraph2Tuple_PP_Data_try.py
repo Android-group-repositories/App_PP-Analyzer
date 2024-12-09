@@ -191,8 +191,32 @@ def convert(name, mode=1):
             })
 
             for s in sentences:
-                file.write(
-                    chat(f"\"\"\"{s}\"\"\"", history) + '\n')
+                tmp_tuple = chat(f"\"\"\"{s}\"\"\"", history)
+                # print(type(tmp_tuple))
+                if len(tmp_tuple.split(';')) != 7:
+                    print("Before:", tmp_tuple)
+                    # prompt3 = f"""
+                    #     {tmp_tuple}
+                    #
+                    #     The above is the result of your extraction for the \"\"\"{s}\"\"\", but the number of tuple elements does not match the definition, please redo the element extraction.
+                    #
+                    #     Make sure that the extracted elements match the tuple definition!!!
+                    # """
+                    # history.append({
+                    #     "role": "system",
+                    #     "content": prompt3,
+                    # })
+                    tmp_tuple = chat(f"""
+                    Please re-execute the extraction task on the following sentence, making sure that the extracted tuple contains only 7 elements, without the redundant none!!!
+                    The sentence is as follows:
+                    
+                    \"\"\"{s}\"\"\"
+                    """, history)
+                    print("After:", tmp_tuple)
+                    # history.pop()
+                file.write(tmp_tuple + '\n')
+                # file.write(
+                #     chat(f"\"\"\"{s}\"\"\"", history) + '\n')
 
             history.pop()
             # time.sleep(10)

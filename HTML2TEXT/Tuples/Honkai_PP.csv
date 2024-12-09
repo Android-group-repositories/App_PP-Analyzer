@@ -1,40 +1,35 @@
 <We; collect; personal information; none; from children; none; none>
 <We; collect; age information; none; from user; before allowing user to proceed with Services; none>
-<We; collect; personal information; child's personal information; from user; if inadvertently gathered; remove from records>
+<We; collect; personal information; none; from child; inadvertently; remove information from records>
 <We; collect; personal information; sensitive or special category personal information; from user; based on consent or another applicable lawful basis; none>
 <We; store; device information; Advertising ID, Device ID; from device; none; advertisement purposes>
-<We; combine; device information; profile data; with user profile; none; deliver relevant advertising>
-<We; track; advertising and marketing data; none; from user interactions; none; measure success of advertising and marketing programs>
-<We; use; email addresses; de-identified email addresses; from third-party social media providers; when login via social media accounts; track advertising and marketing success>
-<We; access; personal data; information on collection or disclosure, categories of data, sources of data, business or commercial purpose; from user; none; ensure transparency and control over personal data>
-<You; require; personal data; duplicate; to us; upon submitting a verifiable request; provide duplicate>
-<We; access; personal data; profile page, privacy dashboard; from service; when applicable; exercise privacy rights>
-<We; collect; data; none; from cookies, browser web storage, application data caches; none; ensure security, stable operation, provide fair gaming environment, prevent cheating, improve functionality and quality of services>
-<We; collect; device data; Advertising ID, device ID, device name, device type/model, MAC address, IMEI data, CPU data, OS version, language, time zone, screen DPI, device resolution, device mode/status, memory data, graphics card model; from device; automatically; none>
-<We; collect; IP address; none; from user; none; none>
-<We; collect; data; bugs, errors, crashes, diagnosis data; registration/login time, game version, UID, stack trace, crash reports, abnormal process data; from user; none; improve service>
-<We; collect; data; installed app names, system startup time, app install and update time, request and referral URLs, system activity details, game-related plug-in and runtime data, network status and information, data related to external plugin programs; from device; none; related to security>
-<We; collect; interactions data; pages viewed, content posted, visit dates and times; from user's interaction with services; automatically; analyze user behavior>
-<We; collect; personal information; none; from California resident; none; provide details about categories, sources, purposes, and third parties>
-<We; collect; personal information; name, telephone number, financial information; from Customer Records; none; business purpose>
-<We; disclose; personal information; name, telephone number, financial information; for a business purpose; none; none>
-<We; collect; participation information; name, UID, email address, mobile phone number, nickname, country/region; from user; if user agrees to participate; collect information for activities>
-<We; collect; mailing address; none; from user; if win prizes in activities; none>
-<We; add; activity participation information; none; to user's account; none; none>
-<We; store; account information; PayPal account information; none; from user; none; display as payment option>
-<We; receive; social media account information; username, nickname; from third party social media providers; if log in to our services via social media accounts; none>
-<We; add; information; account information; from third party social media providers; to user account; none; aggregate data>
-<We; collect; personal information; consumer preferences, inferences; from user; none; business purpose>
-<We; disclose; personal information; consumer preferences, inferences; for a business purpose; none; business purpose>
-<We; collect; Commercial Information; products or services purchased or obtained; from user; none; for a business purpose>
-<We; collect; Internet or Other Electronic Network Activity Information; browsing history, search history, interaction information; from user's internet activity; none; for business purpose>
-<We; collect; Account Registration Information; username, email address, mobile phone number, password, verification code, Open ID/Union ID; from user; when creating an Account; none>
-<We; collect; data types; username, email address, mobile phone number, password, verification code, Open ID/Union ID; from user; none; create and manage account for service use>
-<We; use; data types; none; for providing game login services; when accessing game services; none>
-<We; use; cookies; small text files; from user's device; none; measure effectiveness of services>
-<We; log; IP address; none; from cookies; none; determine user path, identify repeated users>
-<We; authorize; tracking-utility; none; to third-party; none; determine user path, identify repeated users>
-<We; collect; websites, sources; linked or referred sources; through cookies, third-party tracking-utility; from user's browsing history; none; for service improvement>
+<We; use; de-identified email addresses; email addresses from third-party social media providers; from social media accounts; after taking technical security measures; track the success of advertising and marketing programs>
+<We; none; personal data; information on collection or disclosure, categories of personal data, categories of sources, business or commercial purpose; from user; none; access personal data>
+<You; require; personal data; none; to us; upon submitting a verifiable request; provide a duplicate>
+<We; access; personal data; profile information; from services; where applicable; exercise right to access personal data>
+<We; collect; data; cookies, browser web storage, application data caches; from user's device; automatically; ensure security, provide fair gaming environment, prevent cheating, improve functionality and quality of services>
+<We; collect; device related data; Advertising ID, device ID, device name, device type/model, MAC address, IMEI data, CPU data, OS version, language, time zone, screen DPI, device resolution, device mode/status, memory data, graphics card model; from device; automatically; none>
+<We; collect; data; IP address; from user; none; none>
+<We; gather; data; registration/login time, game version, UID, stack trace, crash reports, abnormal process data; from user; when bugs, errors, crashes, diagnosis; improve software>
+<We; collect; data; installed app names, system startup time, app install and update time, request and referral URLs, system activity details, game-related plug-in and runtime data, network status and information, data related to external plugin programs; from system; none; security>
+<We; collect; data; interactions, pages viewed, content posted, dates and times of visits; from services; automatically; none>
+<We; collect; personal information; none; from user; if user is a California resident; to provide details about categories, sources, purposes, and third parties>
+<We; collect, disclose; personal information; name, telephone number, payment information, bank account number; from Customer Records; none; for a business purpose>
+<We; collect; participation information; name, UID, email address, mobile phone number, nickname, country/region; from user; if user agrees to participate; collect participation data>
+<We; collect; mailing address; none; from user; if win prizes; none>
+<We; add; activity participation information; none; to account; none; none>
+<We; store; account information; PayPal account information; none; none; display as payment option>
+<We; receive; social media account information; username, nickname; from third party social media providers; if you log in to our services via your social media accounts; none>
+<We; add; information; none; from third party social media providers; to your account information; none>
+<We; collect, disclose; personal information; consumer preferences, inferences; from user; none; business purpose>
+<We; collect; Commercial Information; products, services; from user; none; business purpose>
+<We; collect; Electronic Network Activity Information; browsing history, search history, interaction with internet website or application; from user; none; business purpose>
+<We; collect; Account Registration Information; username, email address, mobile phone number, password, verification code, Open ID/Union ID; from user; when create an Account; none>
+<We; collect; data types; username, email address, mobile phone number, password, verification code, Open ID/Union ID; from user; none; create and manage account for user's service use>
+<We; use; data types; none; for providing game login services; none; providing game login services, other purposes set forth in Section 2 of Privacy Policy>
+<We; use; cookies; small text files; from site; none; measure effectiveness of services>
+<We; log, authorize; IP address; cookies, tracking-utility; from user's device; none; determine user path, identify repeated users>
+<We; collect; websites, sources; linked, referred; through cookies, third-party's tracking-utility; from user's browsing history; none; identify user's source of traffic>
 <We; gather; technical data; device data, software data, operating system data; from cookies, third-party tracking-utility; none; none>
-<We; none; cookies; none; from user; if do not wish to accept; set browser to reject or notify>
-<We; collect; Identifiers; name, alias, online identifiers, IP address, email address; from user; none; business purpose>
+<We; set; cookies; none; from web browser; if user does not wish to accept; receive notifications>
+<We; collect; identifiers; name, alias, online identifiers, IP address, email address; from user; none; business purpose>

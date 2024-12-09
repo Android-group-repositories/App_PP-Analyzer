@@ -76,22 +76,27 @@ def convert(name, mode=1):
                 As shown in the example below:
 
 
-                example1:
+                Input1:
                 \"\"\"
                 In some cases, complete removal of your content may not be possible because your content may have been reposted (in whole or in part) by other users. We do not knowingly sell or share the personal information of minors under the age of 16.
-
-                You are not allowed to use our services if you are under the age of 13, and our services are not directed at children under the age of 13. You must also be old enough to consent to the processing of your personal data in your country. If we become aware that we have received personal Information from a person under the age of 13, we will delete this information and terminate the person's account
+                \"\"\"
+                
+                Input2:
+                \"\"\"
+                You are not allowed to use our services if you are under the age of 13, and our services are not directed at children under the age of 13. You must also be old enough to consent to the processing of your personal data in your country. If we become aware that we have received personal Information from a person under the age of 13, we will delete this information and terminate the person's account.
                 \"\"\"
                 
                 Sentences can be transformed in a way that maintains the meaning of the original text, e.g., “Under what conditions are you not allowed to use the service” can be transformed into “Under what conditions do we not provide the service”, and try to use the developer as the initiator of the action point rather than the user.
                 Don't omit all data types and related operations in the original text, and Be sure to keep the original meaning!!!
                 
-                output in the following form
+                Only output the extracted sentences!!!
 
-
-                output1:
+                Output1:
                 We do not knowingly sell or share the personal information of minors under the age of 16.
-                we do not provide our services to children under the age of 13.
+                
+                Output2:
+                We do not provide our services to children under the age of 13.
+                We delete information about user under the age of 13.
                 """
 
                 history.append({
@@ -119,8 +124,15 @@ def convert(name, mode=1):
             prompt2 = """
         I will give you a sentence describing a data operation that may contain relevant conditions and purposes, extract the elements of the sentence and convert them into the following form(If it doesn't contain relevant content it is marked as none):
 
-        <Subject; Operations; Data type or Noun; Conditions of operation ; Purpose of operation>
-
+        <
+        Subject; 
+        Operations; 
+        Data type or Noun; 
+        Age-related conditions;
+        Consent-related conditions;
+        Purpose of operation
+        >
+        
         Here is an example, make sure that the elements in the output tuple do not contain pronouns and conform to the above definition 
         
         Transform the original sentence appropriately to conform to the tuple format and do not omit negatives!!!
@@ -133,7 +145,7 @@ def convert(name, mode=1):
         \"\"\"
         
         Output1:
-        <We; not sell or not share; personal information; minors under the age of 16; none>
+        <We; not sell, not share; personal information; minors under the age of 16; none; none>
         
         
         Input2:
@@ -142,7 +154,16 @@ def convert(name, mode=1):
         \"\"\"
         
         Output2:
-        <We; not provide; our services; children under the age of 13; none>
+        <We; not provide; our services; children under the age of 13; none; none>
+        
+        
+        Input3:
+        \"\"\"
+        You are not allowed to use our services if you are under the age of 13 or without parental or guardian consent.
+        \"\"\"
+        
+        Output3:
+        <We; not provide; our services; children under the age of 13; without parental or guardian consent; none>
 
 
             """

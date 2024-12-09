@@ -1,20 +1,19 @@
-<We; collect, use; information; postings on Boomplay, name, identification number, address, email address, social media login details, telephone number, device information, browsing records, comments, account and billing details, lists created, photos, videos, voice recordings; from user; when voluntarily shared; none>
+<We; collect, use; information; postings, public profile, name, identification number, address, email address, social media login details, telephone number, device information, browsing records, comments, account and billing details, lists created, photos, videos, voice recordings; from user; with user's prior consent; share on Boomplay>
 <We; collect; information; location data, log data; from others using Boomplay; none; none>
-<We; share; information; none; with public; as long as the information is retained; make information publicly available>
-<We; collect, use; information; IP address, unique device identifiers, Google advertising ID, Android ID, Identifier for Advertising, Cookies, mobile carrier, time zone, locale setting, operating system, platform, hardware versions, software versions, battery level, signal strength, available storage space, browser type, app names, file types, Bluetooth signals, International Mobile Equipment Identity, International Mobile Subscriber Identity, device settings; from device; none; none>
-<We; collect; information; GPS location, photos, videos, voice recordings; from device; when device settings are turned on; none>
-<We; use; data; none; from user; none; optimize Services, tailor to preferences>
-<We; collect, process; location information; SIM card information, IP address information, mobile device location settings; from user's device; if GPS activated; use GPS for location services>
-<We; use; location information; features, notifications, marketing, other content; from user; none; provide location-based services>
-<We; none; GPS location; none; from mobile device; if user switches off GPS; none>
-<We; collect, use; metadata; none; from user; when Post content; none>
+<We; share; information; none; with us; as long as it is retained by you or another user; none>
+<We; collect; data; IP address, unique device identifiers, Google advertising ID, Android ID, Identifier for Advertising, Cookies, mobile carrier, time zone, locale setting, operating system, platform, hardware versions, software versions, battery level, signal strength, available storage space, browser type, app names, file types, Bluetooth signals, International Mobile Equipment Identity, International Mobile Subscriber Identity, device settings data; from user's device; none; none>
+<We; use; data; none; from user; none; optimizing services and tailoring to preferences>
+<We; collect, process; location information; location data, SIM card, IP address, mobile device location settings, Global Positioning System; from SIM card, IP address, mobile device, mobile device if GPS activated; none; none>
+<We; use; location information; none; from user; when providing location-based services; provide location-based services, features, notifications, marketing, or other content>
+<We; share; GPS location; none; from mobile device; if user does not switch off GPS functionality; none>
+<We; collect, use; metadata; images, text, audio; from user's Post; when Post content; none>
 <We; describe; data; metadata; none; none; provide information about content>
-<We; describe; metadata; none; none; none; none; indicate collection method, timing, and entity, and content format>
-<We; include; information; account name; none; from user; none; enable tracing content to user account>
-<We; collect; metadata; hashtags; from user; when providing content; mark keywords to comments>
-<We; collect; contact information; contact list, address book, social network data; from user's device and third-party services; none; help find people and link contact lists>
-<We; ask for consent; contact list, address book; none; from user; before accessing; access user's contact list and address book>
-<We; allow or disallow access; contact list, address book; none; from user; any time; change settings>
-<We; store; information; none; in aggregated and anonymized format; after termination of service use; none>
-<We; retain; personal information; none; none; as reasonably necessary; comply with legal obligations, resolve and litigate disputes, enforce agreements>
+<We; collect; metadata; none; from content; when content is collected; describe content collection and formatting>
+<We; use; information; account name; from user; none; enable tracing content to user account>
+<We; use; metadata; additional data, hashtags; from user; when providing content; mark keywords to comments>
+<We; collect; contact information; contact list, address book, social network data; from user's contact list, address book, social network; none; help find people and link contact lists>
+<We; access; contact list, address book; none; from user; with user's consent; none>
+<We; access; contact list, address book; none; from user; any time; allow or disallow access>
+<We; store; information; aggregated and anonymized data; none; after termination of service use; none>
+<We; retain; personal information; none; none; to comply with legal obligations, resolve disputes, enforce agreements; none>
 <We; collect; information; third-party service user name, gender, profile image, birthday, third-party service contact list; from third-party services; when creating a Boomplay account; none>

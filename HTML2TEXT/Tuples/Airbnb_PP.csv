@@ -1,76 +1,75 @@
 <We; share; personal information; none; within corporate family of companies, including Airbnb, Inc.; none; providing, integrating, promoting, and improving the Airbnb Platform and Payment Services>
-<We; share; information; none; with Airbnb, Inc.; none; provide technical infrastructure for the Airbnb Platform>
-<We; collect; personal information; Referrals, Co-Travelers; from other sources; none; none>
-<We; submit; personal information; none; from co-traveler; when invited to the Airbnb Platform; provide co-traveler details>
-<We; collect; personal information; first name, last name, phone number, postal address, email address, date of birth, profile photo; from user; when using the Airbnb Platform; none>
-<We; none; none; none; none; none; provide services>
-<We; collect; personal information; none; from other sources, including Third-Party Applications; none; none>
-<We; receive; information; registration, friends list, profile information; from third-party services; if link, connect, or login to Airbnb Platform using those services; collect data>
-<We; collect; information; log information, event information, device information; from smart device; if connect smart lock to Airbnb account; none>
+<We; share; information; none; with Airbnb, Inc.; even if country of residence is not the United States; provide technical infrastructure for the Airbnb Platform>
 <We; collect; personal information; none; from other sources; none; none>
-<We; receive; information; references, demographic data, fraud detection information; from third-party service providers, other third parties, partners, Members; none; combine with information about user>
-<We; receive; background check results, fraud warnings; from identity verification service providers; for use in fraud prevention, security investigation, risk assessment>
-<We; receive; information; activities, information about you; from Airbnb users, members of the public, governmental authorities, partners; from Airbnb Platform; none; none>
-<We; receive; health information; health information related to contagious diseases; from user; none; none>
-<We; receive; personal information; gender, preferred languages, city, personal description; from user; if user chooses to provide Additional Profile Information; collect Additional Profile Information>
+<We; submit; personal information; none; from co-traveler; when invited to the Airbnb Platform; provide information about co-traveler>
+<We; collect; personal information; first name, last name, phone number, postal address, email address, date of birth, profile photo; from user; when use the Airbnb Platform; none>
+<We; none; information; none; none; none; provide services>
+<We; collect; personal information; none; from other sources, including Third-Party Applications; none; none>
+<We; receive; information; registration, friends list, profile information; from third-party services; if you link, connect, or login; none>
+<We; collect; information; log or event information, device information; from smart device; if connect smart lock to Airbnb account; manage smart lock connection>
+<We; collect; personal information; none; from other sources; none; none>
+<We; receive; information; references, demographic data, fraud detection information; from third-party service providers, other third parties, partners, members; none; combine with existing information>
+<We; receive; background check results, fraud warnings; from identity verification service providers; none; for fraud prevention, security investigation, risk assessment>
+<We; receive; information; activities, user information; from Airbnb users, members of the public, governmental authorities, partners; none; none>
+<We; receive; health information; health information related to contagious diseases; from user; none; collect health information>
+<We; receive; personal information; gender, preferred languages, city, personal description; from user; if user chooses to provide Additional Profile Information; collect additional profile information>
 <We; collect; personal information; Payment Information, payment account information, bank account information; from user; when use the Airbnb Platform; none>
-<We; receive; payment information; payment card; from non-Airbnb user; when Airbnb user completes a booking; none>
-<We; collect; personal information; none; from Background Information Providers; none; none>
-<We; obtain; background information; criminal records, sex offender registrations; from United States; none; verify Member background>
-<We; perform; background checks; criminal background; on Hosts in India; none; ensure safety and compliance>
-<We; obtain; background checks; police checks, registered sex offender checks; from Members outside of the United States; to the extent permitted by applicable laws and with their consent where required; ensure safety and compliance>
+<We; receive; payment information; payment card; from non-Airbnb user; when complete a booking; none>
+<We; collect; personal information; none; from other sources; none; none>
+<We; obtain; background information; criminal records, sex offender registrations; from United States; none; none>
+<We; perform; criminal background checks; none; on Hosts in India; none; ensure safety and compliance>
+<We; obtain; background checks; police checks, registered sex offender checks; from members outside of the United States; to the extent permitted by applicable laws and with their consent where required; ensure safety and compliance>
 <We; use; information; full name, date of birth; from user; none; obtain reports>
-<We; process; information; account information, interactions; from user; based on automated review; determine country of residence>
-<We; none; personal information; none; from user; in some jurisdictions, when applicable law entitles; request copies of personal information or information about handling>
-<We; collect; personal information; copies of personal information; from user; upon request; provide structured data>
-<We; transmit; information; none; to another service provider; when technically feasible; upon user request>
-<We; use; personal information; none; none; in accordance with Privacy Policy; none>
-<We; provide; information; legal bases, personal information; to users outside of the United States; none; collection and processing personal information>
-<We; none; personal information; none; none; upon request; delete personal information>
-<We; retain, use; personal information; none; none; to comply with legal, tax, reporting, and auditing obligations; comply with legal, tax, reporting, and auditing obligations>
+<We; process; information; account information, interactions; from user; when reviewing account, when interacting with Airbnb Platform; determine country of residence>
+<We; none; personal information; none; from user; in some jurisdictions; comply with applicable law>
+<We; collect; personal information; copies of personal information; from user; upon request; provide personal information in structured, commonly used, and machine-readable format>
+<We; transmit; information; none; to another service provider; technically feasible; none>
+<We; use; personal information; none; from user; in accordance with Privacy Policy; none>
+<We; provide; personal information; none; from user; if reside outside of the United States; explain legal bases for collection and processing>
+<We; none; personal information; none; none; when requested; delete personal information>
+<We; retain, use; personal information; none; from user; to comply with legal, tax, reporting, and auditing obligations; comply with legal, tax, reporting, and auditing obligations>
 <We; share; personal information; booking information, compliance with laws; with Building Management; none; facilitate programs>
 <We; share; personal information; Hosts' and Guests' personal information; with Accommodation owners, homeowners' associations, Building Management agents; none; facilitating hosting services, compliance, security, billing, and other services>
-<We; share; personal information; contact details; with Building Management; where the host resides and the listing is located; none; facilitate guest booking>
-<We; review, scan, analyze; communications; none; on the Airbnb Platform; for reasons including fraud prevention, security investigations, risk assessment, regulatory compliance, product development, research, analytics, enforcing Terms of Service, customer support purposes; none>
+<We; share; personal information; contact details; with Building Management; where the host resides and the listing is located; none>
+<We; review, scan, analyze; communications; none; on the Airbnb Platform; for fraud prevention, security investigations, risk assessment, regulatory compliance, product development, research, analytics, enforcing Terms of Service, customer support; none>
 <We; scan, analyze; messages; contact information, references to other sites; from user; as part of fraud prevention efforts; mask contact information>
-<We; scan, analyze; images; none; from users; subject to applicable law; identifying and reporting content violations>
+<We; scan and analyze; images; uploaded images; from users; subject to applicable law; identifying and reporting content violations>
 <We; scan, review, analyze; messages; none; from user; none; debug, improve, expand product offerings>
-<We; use; automated methods; none; none; none; fraud investigations, customer support, assess and improve functionality>
-<We; review, scan, analyze; messaging communications; none; from user; none; send third-party marketing messages>
-<We; sell; reviews, analyses; none; to third parties; none; none>
-<We; share; communications; none; as set out in "Sharing and Disclosure" section; none; none>
+<We; use; communications; none; from user; when reasonably possible; assess and improve functionality of automated tools, fraud investigations, customer support>
+<We; none; messaging communications; none; from user; none; none>
+<We; share; communications; none; as set out in the "Sharing and Disclosure" section; none; none>
 <We; collect; personal information; none; from other sources; none; none>
-<We; receive; information; payment schedule, actual payments on authorized payment plans; from third-party provider; if you elect to purchase a reservation and pay on an installment plan; none>
+<We; receive; information; payment schedule, actual payments on authorized payment plans; from third-party provider; if elect to purchase a reservation and pay on installment plan; process payment>
 <We; collect; personal information; Enterprise Product Invitations, Account Management; from other sources; none; none>
-<We; submit; personal information; none; to enterprise products; none; facilitate account management and invitations>
+<We; submit; personal information; none; to enterprise products; none; facilitate account management and send invitations>
 <We; receive; personal information; none; from Financial Institutions; none; none>
-<We; collect; financial information; bank account details, account balance; from financial institution; if elect to pay with bank account funds; none>
-<We; receive; personal information; payment instrument, contact information, co-traveler information; from user; if user chooses to provide; none>
-<You; provide; personal information; none; from others; with permission; described in Privacy Policy>
-<We; collect; information; none; from Airbnb Platform and Payment Services; none; none>
-<We; collect; Geolocation Information; precise location, approximate location; from IP address, mobile device GPS, other shared information; none; none>
-<We; collect; information; none; from app; when not using the app; enable through settings or device permissions>
-<We; share; information; public profile; on Airbnb Platform; with Airbnb; none; build public profile>
-<We; share; information; none; publicly on Airbnb Platform; indexed by third-party search engines; none>
+<We; collect; financial information; bank account details, account balance; from financial institution; if elect to pay with bank account; process payment>
+<We; receive; personal information; payment instrument, contact information, co-traveler information; from user; if user chooses to provide; process additional personal information>
+<We; provide; personal information; none; from user; when providing information about others; confirm permission and sharing privacy policy>
+<We; collect; information; none; from Airbnb Platform and Payment Services; when use the Airbnb Platform and Payment Services; none>
+<We; include; Geolocation Information; precise location, approximate location; from IP address, mobile device, other device's GPS; none; none>
+<We; collect; information; none; from user; when not using the app and settings or device permissions are enabled; none>
+<We; share; information; none; with Airbnb Platform; none; build public profile>
+<We; share; information; none; publicly on the Airbnb Platform; none; index by third-party search engines>
 <We; make visible; information; profile, account information, derived information; to others; none; none>
-<We; collect; information; Payment Transaction Information; from Airbnb Platform and Payment Services; when use the platform; none>
-<We; collect; Payment Transaction Information; payment instrument, date and time, payment amount, payment instrument expiration date, billing postcode, PayPal email address, IBAN information, address, related transaction details; from user; none; none>
+<We; collect; information; Payment Transaction Information; from Airbnb Platform and Payment Services; when using the Airbnb Platform and Payment Services; none>
+<We; collect; Payment Transaction Information; payment instrument used, date and time, payment amount, payment instrument expiration date, billing postcode, PayPal email address, IBAN information, address, related transaction details; from user; none; none>
 <We; collect; personal information; none; from other sources; none; none>
-<We; receive; information; complaint information; from Host, Guest, or third party; when a complaint is submitted; none>
-<We; address; information; complaint; from user; where relevant; resolve complaint>
-<Airbnb; sell, transfer, share; information; user information; with third parties; in connection with merger, acquisition, reorganization, sale of assets, bankruptcy, or insolvency event; due diligence>
-<We; transfer; personal information; none; to different privacy policy; before notification; inform user>
-<We; share; personal information; none; with affiliated and unaffiliated service providers; none; run our business, compliance purposes>
+<We; receive; information; complaint details; none; from Host, Guest, or third party; when a complaint is submitted; none>
+<We; address; information; complaint; from user; when relevant; understand and address complaint>
+<Airbnb; sell, transfer, share; information; user information; with transaction parties; in connection with merger, acquisition, reorganization, sale of assets, bankruptcy, or insolvency event; due diligence>
+<We; transfer; personal information; none; to different privacy policy; before notification; none>
+<We; share; personal information; none; with affiliated and unaffiliated service providers; none; run business, compliance purposes>
 <We; share; information; none; with third-party platforms, software tools, credit providers; none; verifying identity, authenticating identification documents, checking information against public databases, conducting background checks, fraud prevention, security investigations, risk assessments, product development, maintenance, debugging, allowing provision of services, providing customer service, advertising, payments services, offering additional services, processing insurance claims, reviewing, scanning, analyzing communications, offering flexible payment plans and financing>
-<Service providers; access, disclose; personal information; none; from user; required by law; protect user's personal information>
-<We; collect; Device Information; IP address, hardware information, software information, device information, device event information, unique identifiers, crash data, read receipts; from user's device; when using Airbnb Platform and Payment Services; none>
+<These service providers; have access to, may disclose; personal information; none; from user; where required by law; protect user's personal information>
+<We; collect; information; Device Information, IP address, hardware and software information, device information, device event information, unique identifiers, crash data, read receipts; from user; when using the Airbnb Platform and Payment Services; none>
 <We; collect; information; none; from user; even if no account created or logged in; none>
-<We; receive; personal information; Biometric Information, facial recognition data; from user; when user chooses to provide; with user's consent where required by applicable law>
-<We; receive; personal information; Other Information, health information; from user; when filling in a form, adding information to account, responding to surveys, posting to forums, participating in promotions, communicating with Airbnb Support and Members, importing or entering address book contacts, providing address and geolocation, sharing experience; none>
-<We; collect; personal information; none; from user; when use the Airbnb Platform; none>
-<We; ask; verification information; government-issued ID, image, selfie; from user; when verify ID; verify user's identity>
+<We; receive; personal information; Biometric Information, facial recognition data; from user; when user chooses to provide it; verification, consent where required by law>
+<We; receive; personal information; Other Information, health information; from user; when filling in a form, adding information to account, responding to surveys, posting to forums, participating in promotions, communicating with Airbnb Support and Members, importing/manually entering address book contacts, providing address and geolocation, sharing experience; none>
+<We; collect; personal information; none; from user; when using the Airbnb Platform; none>
+<We; ask; verification information; image of government-issued ID, selfie; from user; when verify ID; verify user's identity>
 <We; obtain; information; ID; from user; if copy is provided; none>
 <We; collect; Identity Information; none; from user; in accordance with applicable laws; none>
-<We; process; personal information; none; from Airbnb Platform; when use the Airbnb Platform; none>
+<We; process; personal information; none; from user; when using the Airbnb Platform; none>
 <We; collect; personal information; none; from other sources, such as Guest Travel Insurance Partners; none; none>
-<We; receive; information; claim information; from user; when making a claim; provide customer service, improve platform>
+<We; receive; information; claim information; from claim; when making a claim; provide customer service, improve platform>

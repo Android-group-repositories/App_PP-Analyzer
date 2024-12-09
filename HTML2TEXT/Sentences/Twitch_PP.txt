@@ -1,0 +1,3 @@
+We will terminate the account and delete personal information of a child under 13 upon request from their parent or legal guardian.
+Twitch does not knowingly collect or maintain personal information from persons under 13 years-of-age.
+If Twitch learns that personal information of persons under 13 has been collected on or through the Twitch Services, Twitch will take appropriate steps to delete this information.

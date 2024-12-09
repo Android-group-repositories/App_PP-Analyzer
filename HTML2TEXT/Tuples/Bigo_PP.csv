@@ -1,86 +1,85 @@
-<We; provide; Personal Information; alias, profile images, gender, hometown, self-introduction, social media information, education, career; from user; when create an account, when use Bigo Services; none>
+<We; collect; Personal Information; alias, profile images, gender, hometown, self-introduction, social media information, education, career; from user; when create account, when use Bigo Services; none>
 <We; use; Personal Information; none; none; none; customization of content>
-<We; research and analysis; use; none; from Bigo Services; none; develop and display tailored content>
-<We; use; Personal Information; none; from user; when user does not meet the age limit; identify users>
-<We; use; Personal Information; none; from user; when diagnosing technology problems; fix technology problems>
-<We; use; Personal Information; none; none; none; detect, prevent, and respond to fraud, illegal activities, intellectual property infringement>
-<We; provide; personal information; none; during Bigo account creation process; from user; none; use Bigo Services>
-<We; take actions; content, profile information, actions; broadcasting content, posting profile information, following a channel, subscribing to a broadcast channel; on Bigo Services; when actions are public or intended to be public; share content or information>
+<We; research and analysis; use, interest; contents, products, advertising, services; from Bigo Services; when developing and displaying content; tailored content based on user interests>
+<We; use; Personal Information; none; from user; when identifying users; enforce age limit>
+<We; use; Personal Information; none; none; none; diagnose or fix technology problems>
+<We; use; Personal Information; none; from user; none; detect, prevent, and respond to fraud, illegal activities, or intellectual property infringement>
+<We; collect; personal information; none; from user; during Bigo account creation process; none>
+<We; take actions; content, profile information; public actions; on Bigo Services; when actions are public or intended to be public; broadcasting content, posting profile information, following a channel, subscribing to a broadcast channel>
 <We; collect, use, disclose; social interaction information; none; from Bigo Services; when engage in social activities; none>
-<We; design; features; user activity information; identifying user, subscription status; Bigo Services; none; provide information>
-<We; collect; Personal Information; social network contacts; from user's device; when activating "Discover Friends" function; none>
-<We; collect; Personal Information; payment information, full name, billing address, billing zip code, billing country, date of birth, purchase amount, payment method, credit or debit card number; from user; when create account, when use Bigo Services, when upload content, when contact for support; none>
-<We; use; Personal Information; none; from user; when applicable laws allow; comply with applicable laws>
+<We; design; features; user activity information; identifying user, subscription status; from Bigo Services; none; provide information about user activity>
+<We; collect; Personal Information; social network contacts; from user's device; when activating "Discover Friends" function; connect with friends on the App>
+<We; collect; Personal Information; payment information, full name, billing address, billing zip code, billing country, date of birth, purchase amount, payment method, credit or debit card number; from user; when create an account, when use Bigo Services, when upload contents, when contact for technical support; none>
+<We; use; Personal Information; none; none; when applicable laws allow; none>
 <We; use; Personal Information; none; from user; none; performance analysis>
-<We; monitor; metrics; aggregate metrics, Personal Information; total number of visitors, number of videos viewed, demographic patterns; from user; none; none>
-<We; use; Personal Information; none; from user; when allowed by applicable laws; to present Bigo Services and its contents, including interactive features, and to provide information, products or services>
+<We; monitor; metrics; aggregate metrics, total number of visitors, number of videos viewed, demographic patterns; Personal Information; none; none>
+<We; use; Personal Information; none; from user; allowed by applicable laws; present Bigo Services and its contents, provide information, products or services>
 <We; collect, use; Personal Information; none; from user; when participate in promotion activities and sweepstakes; verify eligibility and deliver prizes>
-<We; require; Personal Information; none; from user; to register as a user, purchase Paid Services, participate in a promotion, survey, sweepstakes, make complaints; enable user participation and registration>
+<We; require; Personal Information; none; from user; to register as a user, purchase Paid Services, participate in a promotion, survey, sweepstakes, or make complaints; Bigo Services>
 <We; share; Personal Information; none; outside of Bigo Services; when we have your consent; none>
-<We; delete; Personal Information; none; from BIGO Services; if learn it has been collected; protect privacy of minors>
+<We; delete; Personal Information; none; from BIGO Services; if learn it has been collected on or through the BIGO Services; comply with age restrictions>
 <We; provide; Personal Information; information from in-app surveys and activities; from user; when creating an account, when using Bigo Services; none>
-<We; collect; Personal Information; none; from user; on the basis of legitimate interests; none>
-<We; reject; request; none; none; if demonstrate compelling legitimate grounds; establishment, exercise, or defense of legal claims>
+<We; collect; Personal Information; none; from user; on the basis of legitimate interests; object to processing>
+<We; reject; request; none; none; if demonstrate compelling legitimate grounds; establish, exercise, or defend legal claims>
 <We; collect; Personal Information; information, UGC; from user; when participate in events, promotions, challenges, contests, sweepstakes, or interact with social media sites; none>
-<We; collect; data; cookies, small pieces of data; from Bigo Services; when using Bigo Services; enable features for legitimate interests>
-<We; use; data; cookies, small pieces of data; from user or business partners; when click on web pages, when use Bigo Services; measure and understand usage>
+<We; collect; cookies, small pieces of data; none; from user; when using Bigo Services; provide certain features for legitimate interests>
+<We; use; data; cookies, small pieces of data; from user; when click on web pages; measure and understand usage of Bigo Services>
 <We; collect; data; cookies, small pieces of data; from Bigo Services; none; enhance user experience>
-<We; disclose, share; Personal Information; none; with buyer or other successor; in event of merger, divestiture, restructuring, reorganization, dissolution or sale or transfer of assets; none>
+<We; disclose, share; Personal Information; none; with buyer or other successor; in event of merger, divestiture, restructuring, reorganization, dissolution, or sale or transfer of assets; none>
 <We; none; personal information; none; from user; if sale or transfer occurs; transfer assets>
 <We; use; Personal Information; none; to entity; none; ensure consistent use with privacy policy>
 <We; process; Personal Information; none; none; depending on the specific purpose; for more than one lawful ground>
-<We; receive; Global Positioning System information; none; from user; when create account, when use Bigo Services, when upload contents, when contact for support; obtain user location>
-<We; use; Personal Information; pictures, images, contents; from Bigo Services; when content review is necessary; ensure compliance with content regulations>
-<We; collect; Personal Information; mobile advertising identifiers like Apple's IDFA or Google's AAID; from Bigo Services; when using Bigo Services; provide relevant ads>
-<We; collect; Personal Information; none; from user; none; rectify Personal Information>
-<We; use; Personal Information; none; from user; none; customer management, managing account, providing support, sending notices>
+<We; receive; Global Positioning System information; none; from user; when create account, when use Bigo Services, when upload content, when contact for support; after permission>
+<We; use; Personal Information; pictures, images, contents; from Bigo Services; none; ensure compliance with content regulations>
+<We; collect; Personal Information; mobile advertising identifiers, Apple's IDFA, Google's AAID; from user; when using Bigo Services; provide relevant ads>
+<We; collect; Personal Information; none; from user; when user submits a request; rectify Personal Information>
+<We; use; Personal Information; none; from user; none; customer management, managing user's account, providing customer support, sending notices>
 <We; use; Personal Information; none; from registered users; when there are changes to Bigo Services or other products/services; notify users>
-<We; use; Personal Information; none; from user; none; improving and personalizing services>
-<We; use; Personal Information; notifications, upcoming changes, promotion activities, improvements; regarding Bigo Services; none; communication purposes>
-<We; collect; Personal Information; opt-in choices, correspondence, account verification information, feedback or complaints resolution information; from user; when create account, when use Bigo Services, when upload content, when contact for support; none>
+<We; use; Personal Information; none; from user; none; improving and personalizing services, presenting new services, information, recommendations, and feedback>
+<We; use; Personal Information; none; from user; none; communication purposes, sending notifications regarding upcoming changes, promotion activities, or improvements on Bigo Services>
+<We; collect; Personal Information; opt-in choices, correspondence, account verification information, feedback or complaints resolution information; from user; when creating an account, when using Bigo Services, when uploading contents, when contacting for technical support; none>
 <We; collect, use, disclose; personal information; none; from users; when visiting and using Bigo Services; none>
-<We; collect; metadata; UGC collection details, UGC formatting details, hashtags, captions; from Bigo Services; when using Bigo Services; for legitimate interests>
-<We; collect; Personal Information; games or services information, social media networks information; from other sources; when approved access; gather user data>
-<We; obtain; information; additional information; from third parties, sources other than BIGO Services; from third parties; none; none>
-<We; collect, store, use; information and content; additional information and content; from social media networks; when accessing or connecting BIGO Services; in accordance with Privacy Policy>
-<We; use; Personal Information; none; from user; none; compliance with terms of use, meeting legal obligations>
-<We; collect; Personal Information; date of birth, phone number, email, password, user identifier, language; from user; when create account, when use Bigo Services; none>
-<We; collect; Personal Information; information from social media; from third-party social media service; when creating Bigo account; connect account>
-<We; provide; information; social media details; from user; when linking Bigo account with third-party social media account; link Bigo account>
+<We; collect; metadata; hashtags, captions; from UGC; when using Bigo Services; legitimate interests>
+<We; collect; Personal Information; games or services information, social media networks information; from other sources; when approved access; none>
+<We; obtain; information; additional information; from third parties and sources; none; none>
+<We; collect, store, use; information and content; additional information and content; from social media networks; when access or connect BIGO Services; in accordance with Privacy Policy>
+<We; use; Personal Information; none; from user; none; compliance with terms of use and meeting legal obligations>
+<We; collect; Personal Information; date of birth, phone number, email, password, user identifier, language; from user; when create an account, when use Bigo Services; none>
+<We; collect; Personal Information; information from social media; from third-party social media service; when creating a Bigo account; none>
+<We; collect; information; social media details; from user; when linking Bigo account with third-party social media account; none>
 <We; collect; Personal Information; device identifiers, operating system, browser type, brand, model, serial number, Internet Protocol address, mobile carrier, screen resolution, language setting, IMEI number, IMSI number, media access control address; from user; when using Bigo Services; for legitimate interests>
-<We; collect; Personal Information; transaction serial number, transaction historical records; from user; when purchase Paid Services on the App or use Bigo Services; none>
+<We; provide; Personal Information; transaction serial number, transaction historical records; from user; when purchase Paid Services; use for Bigo Services>
 <We; collect; location information; information based on SIM card; from SIM card; when use Bigo Services; for legitimate interests>
-<We; collect, use, share; information; none; none; none; produce and share aggregated insights>
+<We; collect, use, share; information; aggregated insights; from user; none; produce and share insights>
 <We; derive; aggregated data; Personal Information; from user; none; none>
-<We; aggregate; usage data; none; from user; none; calculate statistics, calculate percentage of users accessing feature, calculate ad impressions>
+<We; aggregate; usage data; none; from user; none; calculate statistics, calculate percentage of users accessing features, calculate ad impressions>
 <We; use; Personal Information; none; from user; none; aggregation>
-<We; collect; Personal Information; browsing history, search history, visited videos or pages, date and time of visits, subscribed user accounts, interaction information with other users; from Bigo Services; when using Bigo Services; for legitimate interests>
-<We; collect; Personal Information; access to and use of other apps; from Bigo Services; when using Bigo Services; for legitimate interests>
+<We; collect; Personal Information; browsing history, search history, visited videos or pages, date and time of visits, subscribed user accounts, interaction information with other users; from user; when use Bigo Services; for legitimate interests>
+<We; collect; Personal Information; access and use of other apps; from Bigo Services; when using Bigo Services; for legitimate interests>
 <We; collect; Personal Information; none; from user; none; none>
 <We; disclose; aggregated information; none; about users; none; none>
 <We; share; aggregated information; none; with third parties; none; conducting general business analysis>
-<We; use; information; none; none; none; develop content and services; find of interest>
-<We; receive; Personal Information; UGC (comments, texts, messages, pictures, images, videos, sounds, code, other data/materials); from user; when create account, when use Bigo Services; none>
+<We; use; information; none; from unspecified; none; develop content and services>
+<We; receive; Personal Information; UGC (comments, texts, messages, pictures, images, videos, sounds, code, other data or materials); from user; when create account on App, when use Bigo Services; none>
 <We; erase; Personal Information; none; from Bigo Services; upon user's request; comply with user's request>
-<We; use; data; none; from backup servers; none; none>
-<We; take security measures; Personal Information; none; none; none; safeguard from unauthorized access and disclosure>
-<Authorized employees; access; Personal Information; none; from authorized sources; for permitted business functions; none>
-<We; use; encryption; Personal Information; none; between user's system and ours; none; secure data transmission>
+<We; use; data; none; from backup servers; none; not use for any other purpose>
+<We; use; Personal Information; none; none; to safeguard from unauthorized access and disclosure; protect Personal Information>
+<Authorized employees; access; Personal Information; none; none; for permitted business functions; permitted business functions>
+<We; use; Personal Information; encryption; between your system and ours; none; none>
 <We; use; Personal Information; none; from unauthorized persons; none; prevent unauthorized access>
 <We; none; Personal Information; none; during storage and transmission; none; cannot fully eliminate security risks>
-<We; use; information; none; through Bigo Services; none; caution in submitting>
+<We; use; information; none; from Bigo Services; when submitting information; take special care>
 <We; access, preserve, share; Personal Information; none; with regulators, law enforcement or others; when reasonably believe disclosure is needed; comply with law, regulation, legal process, governmental request>
-<We; enforce; Personal Information; none; from user; upon potential violations; maintain terms of use>
-<We; detect, prevent, address; Personal Information; none; from user; when illegal or suspected illegal activities occur; ensure compliance with laws>
-<We; protect; Personal Information; none; from our company, our users, our employees, other third parties; when harm to rights, property or safety is a concern; to prevent harm>
-<We; maintain and protect; Personal Information; none; Bigo Services or infrastructure; none; security and integrity>
+<We; enforce; Personal Information; none; from source of violation; when investigating potential violations; enforce terms of use>
+<We; detect, prevent, address; Personal Information; none; from user; when illegal or suspected illegal activities are detected; ensure compliance with laws>
+<We; protect; Personal Information; none; from company, users, employees, third parties; when necessary to protect rights, property, or safety; accessing, preserving, sharing>
+<We; maintain and protect; Personal Information; none; from Bigo Services or infrastructure; when necessary for security and integrity; ensure security and integrity>
 <We; use; Personal Information; none; none; when applicable laws allow; none>
-<We; use; Personal Information; none; from user; when using the Platform; automatically collect information, measure and analyze web page clicks, enhance user experience, improve services>
-<We and our vendors and service providers; use; Cookies; none; on Platform; none; enable features and functionality>
-<We; use; files; Cookies; on device; none; provide features and functionality>
-<We; use; Web beacons; pixel tags, clear GIFs; from user's computer or device; when a page is viewed; recognize Cookies, track page view time and date, describe page content>
-<We; use; Cookies; none; from Platform; by using the Platform; none>
-<We; collect; Personal Information; facial data; from user; when use features to create special effects or emojis, when upload pictures; fulfill special effects or emojis>
+<We; use; Personal Information; none; from user; automatically; measuring and analyzing web page clicks, enhancing user experience, improving services>
+<We and our vendors and service providers; use; Cookies; none; from Platform; none; enable features and functionality>
+<We; use; cookies; none; on device; none; provide features and functionality>
+<We; use; information; Web beacons, Cookies, time and date, page description; from user's computer or device; when page is viewed; recognize user activity>
+<We; use; Cookies; none; from Platform; none; none>
+<We; collect; Personal Information; facial data; from user; when using special effects or emojis features, when uploading pictures; fulfill special effects or emojis, obtain explicit consent, turn into de-identified data>
 <We; use; facial data; none; none; none; none>
-<We; share; facial data; none; with third party; none; none>
-<We; collect; profile picture, facial-recognition video; Real-Person Profile Picture Authentication data; from user; when utilize the feature; verify user's identity>
+<We; collect; media; profile picture, facial-recognition video; from user; when utilize Real-Person Profile Picture Authentication feature; verify identity>
